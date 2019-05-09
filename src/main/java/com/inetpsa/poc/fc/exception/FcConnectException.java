@@ -1,4 +1,4 @@
-package com.inetpsa.poc.f.exception;
+package com.inetpsa.poc.fc.exception;
 
 import org.apache.oltu.oauth2.common.exception.OAuthSystemException;
 

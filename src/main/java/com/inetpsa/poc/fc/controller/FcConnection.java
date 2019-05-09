@@ -1,4 +1,4 @@
-package com.inetpsa.poc.fc;
+package com.inetpsa.poc.fc.controller;
 
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -19,8 +19,8 @@ import org.apache.oltu.oauth2.common.message.types.ResponseType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.inetpsa.poc.f.exception.FcConnectException;
 import com.inetpsa.poc.fc.config.FcParamConfig;
+import com.inetpsa.poc.fc.exception.FcConnectException;
 
 public class FcConnection {
 	

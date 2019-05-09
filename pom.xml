@@ -14,7 +14,7 @@
         <currentJavaPath>${javaPath_18}</currentJavaPath>
         <logback.version>1.2.3</logback.version>
         <spring-boot.vesion>1.5.12.RELEASE</spring-boot.vesion>
-        <start-class></start-class>
+        <start-class>com.inetpsa.poc.fc.Applivation</start-class>
     </properties>
 
 

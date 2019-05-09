@@ -18,9 +18,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.inetpsa.poc.f.exception.FcConnectException;
-import com.inetpsa.poc.fc.FcConnection;
 import com.inetpsa.poc.fc.config.FcParamConfig;
+import com.inetpsa.poc.fc.exception.FcConnectException;
 
 @RestController
 @RequestMapping(value = "/")

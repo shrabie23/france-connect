@@ -1,7 +1,7 @@
 /*
  * Creation : 9 mai 2018
  */
-package com.inetpsa.poc.fc;
+package com.inetpsa.poc.fc.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
